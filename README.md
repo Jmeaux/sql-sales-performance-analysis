@@ -6,6 +6,8 @@ This project demonstrates a SQL-driven Power BI dashboard built using the Advent
 
 The dataset was created using a custom SQL query that aggregates monthly sales and customer counts by territory. The goal was to showcase SQL aggregation skills and the ability to transform query results into a clean executive dashboard.
 
+
+![SQL Query Output](images/dashboardrows.png)
 ---
 
 ## 🛠 Tools Used
