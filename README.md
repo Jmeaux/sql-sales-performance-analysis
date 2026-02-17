@@ -29,5 +29,6 @@ The dataset was created using a custom SQL query that aggregates monthly sales a
 
 ## 📷 Dashboard Preview
 
-[SQL Sales Performance Dashboard](images/images/sqldashboard.png)
+![SQL Sales Performance Dashboard](images/sqldashboard.png)
+
 
